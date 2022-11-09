@@ -7,6 +7,8 @@ Project Info :
 - Built a system that recommends a set of Pokémon teams along with their efficiency
 
 Dataset Description :
+Dataset was taken from kaggle : https://www.kaggle.com/datasets/abcsds/pokemon
+
 - Name : Name of the pokemon
 - Type 1 : Primary typing of the pokemon 
 - Type 2 : Secondary typing of the pokemon
