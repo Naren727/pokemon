@@ -2,11 +2,11 @@
 So Pokemon is an old game that i really love playing
 and thats is why i decided to do my first project as something i cherish
 
-Project Info : 
+# Project Info : 
 - Exploratory data analysis of Pokémon dataset using matplot and pandas library. 
 - Built a system that recommends a set of Pokémon teams along with their efficiency
 
-Dataset Description :
+# Dataset Description :
 Dataset was taken from kaggle : https://www.kaggle.com/datasets/abcsds/pokemon
 
 - Name : Name of the pokemon
@@ -21,6 +21,7 @@ Dataset was taken from kaggle : https://www.kaggle.com/datasets/abcsds/pokemon
 - Speed : stat that describes how fast a pokemon acts
 - Generation : The generation which the particular pokemon belongs to
 - Legendary : Boolean Value that tells us whether a pokemon is legendary or not
-Tools/Packages Used :
+
+# Tools/Packages Used :
 - jupyter notebooks
 - Pandas & MatPlotlib
